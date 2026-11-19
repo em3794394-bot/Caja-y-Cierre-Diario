@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Caja y Cierre Diario/Caja y Cierre Diario.vcxproj" Id="7b810c74-e07e-4ac0-b3f3-422eb7d6260a" />
+</Solution>
